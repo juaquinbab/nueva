@@ -1,2 +1,5 @@
-2024/08/30-09:46:32.800 8703 Creating DB /Users/leidyburgos/Documents/lineanueva/.wwebjs_auth/session-Client-one/Default/Local Storage/leveldb since it was missing.
-2024/08/30-09:46:32.811 8703 Reusing MANIFEST /Users/leidyburgos/Documents/lineanueva/.wwebjs_auth/session-Client-one/Default/Local Storage/leveldb/MANIFEST-000001
+2024/08/30-10:11:21.592 a403 Reusing MANIFEST /Users/leidyburgos/Documents/lineanueva/.wwebjs_auth/session-Client-one/Default/Local Storage/leveldb/MANIFEST-000001
+2024/08/30-10:11:21.592 a403 Recovering log #14
+2024/08/30-10:11:21.593 a403 Reusing old log /Users/leidyburgos/Documents/lineanueva/.wwebjs_auth/session-Client-one/Default/Local Storage/leveldb/000014.log 
+2024/08/30-10:11:21.593 a403 Delete type=2 #15
+2024/08/30-10:11:21.593 a403 Delete type=2 #16
